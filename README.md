@@ -1,2 +1,2 @@
-# tp-github-devops
+# TP GitHub DevOps
 TP GitHub - Cours DevOps
